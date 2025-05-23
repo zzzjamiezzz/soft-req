@@ -11,7 +11,7 @@ This repository is used for managing our Software Requirements Engineering (SRE)
 |----------------|---------------------|--------------------------|
 | Yang Jia En    | @zzzjamiezzz        | Repo Owner               |
 | Teoh Xuan Xuan | @XXuannnnnn         | Contributor              |
-| Tey Jun Cheng  | @TeyJunChengLearn   | Contribution             |
+| Tey Jun Cheng  | @TeyJunChengLearn   | Contributior             |
 
 ---
 
