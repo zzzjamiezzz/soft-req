@@ -44,3 +44,5 @@ git pull
 ---
 
 ## 🖼️ Screenshots
+![Commit Example](Screenshots/branch.jpg)
+![Commit Example](Screenshots/commit.jpg)
